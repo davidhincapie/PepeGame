@@ -113,7 +113,7 @@ window.onload = function () {
     game.load.image('platform', 'platform_2.png');
     
     //Load spritesheets
-    game.load.spritesheet('player', 'mikethefrog.png', 32, 32);
+    game.load.spritesheet('player', 'pepethefrog.png', 32, 32);
     game.load.spritesheet('star', 'star.png', 32, 32);
     game.load.spritesheet('badge', 'coin.png', 36, 44);
     game.load.spritesheet('poison', 'poison.png', 32, 32);
